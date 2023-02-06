@@ -9,8 +9,8 @@ android {
 
     defaultConfig {
         applicationId "dev.bluehouse.enablevolte"
-        minSdk 32
-        targetSdk 33
+        minSdk 30
+        targetSdk 31
         versionCode 1
         versionName "1.0"
 
